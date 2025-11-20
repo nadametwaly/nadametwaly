@@ -1,6 +1,6 @@
 🌟 Hi, I'm Nada Mohamed!
-AI/ML Engineer | Cloud Enthusiast | Data Science Practitioner
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=25&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Engineer;Cloud+Services+Explorer;Data+Science+Practitioner;Python+%7C+TensorFlow+%7C+PyTorch;Always+Learning+%26+Building+🚀"> </p>
+Data Science & ML Engineer | Cloud & DevOps Enthusiast
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=25&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Engineer;Cloud+%26+DevOps+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Always+Learning+%26+Building+🚀"> </p>
 <!--
 **nadametwaly/nadametwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
