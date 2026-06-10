@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Metwaly</h1>
-<h3 align="center">DevSecOps Engineer 🇪🇬</h3>
+<h3 align="center">DevOps Engineer 🇪🇬</h3>
 
 <p align="center">
   A dedicated DevSecOps Engineer based in Alexandria, Egypt, with a strong foundation in cloud infrastructure, CI/CD pipeline automation, and shift-left security. I specialize in building, securing, and optimizing highly available cloud-native environments and streamlining the software development lifecycle.
