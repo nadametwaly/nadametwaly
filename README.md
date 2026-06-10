@@ -29,12 +29,6 @@
 
 ---
 
-### 📄 My Resume
-
-🔗 [Click here to view my complete Resume / CV](#) *(Replace the `#` with your Google Drive link)*
-
----
-
 ### 🛠️ Skills
 
 Here's a glimpse of the technical stack I bring to the table:
